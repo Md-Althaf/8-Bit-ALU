@@ -1,0 +1,10 @@
+Item,Specification,Quantity
+Resistor,800Ω,24
+Resistor,10KΩ,256
+Resistor,100KΩ,232
+Resistor,4.7KΩ,264
+Transistor,2N3904 (NPN),264
+LED,Standard,24
+Jumper Wire,Female-Male,30
+Standoff,M3 Female-Male,32
+Breadboard,Mini (400 tie-points),1
