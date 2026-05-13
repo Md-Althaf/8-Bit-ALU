@@ -1,0 +1,13 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Pcb","This is the main component Pcb",10,30.58,"https://robu.in/product/online-pcb-manufacturing-service/?gad_campaignid=21658520538&gad_source=1&gbraid=0AAAAADvLFWdNWmKenmdP5qNoEcapom7lV&gclid=CjwKCAjwwpDQBhAuEiwAa-4WozzkdGqJq98CDUbjn3c8oOIlN2qji0ctpNQ6oVCd5u_S7Tb7ccVTEhoCQEgQAvD_BwE"," Robu "
+"Breadboard and Power supply ","fro power and assembly componnet ",1,2.68,"https://www.amazon.in/gp/product/B01KW558NG/ref=ox_sc_act_title_4?smid=A3OFE3UKIO43OW&psc=1","Amazon"
+"2N3904 Transistor (JCET)","Logic gate implementation",270,14.11,"https://robu.in/product/2n3904-tarange200-300-jcet-40v-625mw-10010ma1v-200ma-npn-to-92-2-54mm-bipolar-bjt-rohs/","Robu.in"
+"4.7k Ohm Resistor","Collector / bias resistors",210,0.39,"https://robu.in/product/4-7k-ohm-1-8w-through-hole-resistor-pack-of-5000/","Robu.in"
+"10k Ohm Resistor","Base resistors for transistor switching",260,2.77,"https://robu.in/product/10k-ohm-0-5w-metal-film-resistor-pack-of-50/","Robu.in"
+"100k Ohm Resistor","Pull-down resistors",240,2.46,"https://robu.in/product/100k-ohm-0-5w-metal-film-resistor-pack-of-50/","Robu.in"
+"470 Ohm Resistor","LED current limiting resistors",60,0.11,"https://robu.in/product/470-ohm-1-8w-through-hole-resistor-pack-of-5000/","Robu.in"
+"Red LED (10mm)","Input and output indicators",30,1.18,"https://robu.in/product/10mm-dip-led-red-10-pcs/","Robu.in"
+"8-Way Slide Switch","Input selection switches (A & B buses)",2,0.42,"https://robu.in/product/8-way-slide-switch-2-54mm-pitch-pack-of-3/","Robu.in"
+"100µF Capacitor","Power supply smoothing and stability",10,0.63,"https://robu.in/product/100uf-16v-electrolytic-capacitor-pack-of-20/","Robu.in"
+"M3 x 20mm Standoffs","PCB stacking and mechanical support",32,3.24,"https://onlyscrews.in/products/m3-x-20mm-male-to-female-brass-with-nickel-plating","Only Screws"
+"Soldering Kit","Used for assembling and soldering components",1,16.59,"https://www.amazon.in/Adjustable-Temperature-Electronics-Desoldering-Tweezers-Black/dp/B0FQ5QHNGY/","Amazon"
