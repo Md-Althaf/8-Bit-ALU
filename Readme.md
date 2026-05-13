@@ -7,7 +7,7 @@ This is a made using 2N3904 transistor .
 
 The above image shows the basic logic of the 1 bit adder using logic gates.
 
-![8-bit adder construction](images/FULL-adder - circuit design.png)
+![1-bit adder circuit](images/FULL-adder-circuit-design.png)
 
 The above image is the circuit diagram of the 1 bit adder
 
