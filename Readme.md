@@ -48,6 +48,12 @@ The above image shows the circuit diagram of the OR gate.
 
 This is the updated BOM 
 
+![alt text](images/pcb-routings.png)
+PCB Routings
+
+![alt text](images/image.png)
+3D Rendered PCB
+
 
 # UPDATE 
 Well there are two PCB both work , one is compact and another ne is labelled okay like showing each 'Nand' and 'And' and gates like that , both works .
