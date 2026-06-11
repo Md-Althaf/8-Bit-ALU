@@ -15,7 +15,7 @@ Well I redesigned the PCB again now but now i used Two layers only which is very
 ![image](https://stasis.hackclub-assets.com/images/1779302686664-7jdrsd.png)
 ![image](https://stasis.hackclub-assets.com/images/1779302847981-gflqkl.png)
 
-Total time spent: 3 hours
+**Total time spent: 3 hours**
 
 # 5/13/2026 8 PM - Re design the PCB
 
