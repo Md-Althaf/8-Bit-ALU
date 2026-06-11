@@ -5,7 +5,7 @@ description: "It is a 8 bit adder and subtractor made of transistors (2n3904)"
 created_at: "2026-03-20"
 ---
 
-# 5/20/2026 6 PM - Re-Redesigned the PCB
+# May 20:Re-Redesigned the PCB
 
 _Time spent: 3h_
 
