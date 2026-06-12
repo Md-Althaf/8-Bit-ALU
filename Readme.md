@@ -2,7 +2,9 @@
 
 8 bit Adder and Subtractor is 8 bit calculator which can add upto 
 256 and subtract upto -256 .
-This is a made using 2N3904 transistor .
+This is a made using 2N3904 transistor.
+# why i build this
+I made this because I am learning and understanding how a CPU works, and I thought it would be great to build an 8-bit binary adder and subtractor using transistors.
 ![1-bit adder logic](images/1-Bit-Adder_logic-Gates.png)
 
 The above image shows the basic logic of the 1 bit adder using logic gates.
