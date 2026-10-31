@@ -69,6 +69,7 @@ PCB Routings
 #### Video 4
 <video src="VID-20261031-WA0013~5.mp4" width="100%" controls></video>
 *** note fore rewiwer : if u find the project is like in n complete it isn't the project is completed if se the bread oard and thinking no that was the design . Thank u.
+please download the video Demo videos if u can't open it from read me . 
 
 # UPDATE 
 Well there are two PCB both work , one is compact and another ne is labelled okay like showing each 'Nand' and 'And' and gates like that , both works .
