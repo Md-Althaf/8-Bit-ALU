@@ -56,8 +56,9 @@ PCB Routings
 ![alt text](images/image.png)
 3D Rendered PCB
 ### Project Photos 
-![Alt Text](images/IMG_20261027_014943.png)
-![Alt Text](images/IMG_20261027_014957.png)
+![IMG_20261027_014943524_HDR](images/IMG_20261027_014943524_HDR.jpg)
+![IMG_20261027_014957667_HDR](images/IMG_20261027_014957667_HDR.jpg)
+
 
 ### Project Demonstrations
 
